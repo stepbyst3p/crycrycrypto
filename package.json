@@ -1,0 +1,19 @@
+{
+  "name": "crypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepbyst3p/crycrycrypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepbyst3p/crycrycrypto/issues"
+  },
+  "homepage": "https://github.com/stepbyst3p/crycrycrypto#readme"
+}
